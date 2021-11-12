@@ -1,3 +1,6 @@
+#you need to have handtrackingmodule and this in same python folder for this to work.
+#for cv2 use 'pip install cv-python' in terminal
+
 import cv2
 import time
 import mediapipe as mp
